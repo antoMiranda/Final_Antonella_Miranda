@@ -1,0 +1,54 @@
+/*Colores
+925946-marron
+CA8462- marron-naranja
+c55F4E-rosa oscuro
+d7897E-rosa
+EEB1A2- rosa claro
+F0D0C1-rosa más claro
+#356d65 verde
+#f7ecdf- balnco amarillo
+#f1cbb5- rosa salmon claro
+
+*/
+
+.fondoclaro{
+  background: #f7ecdf;
+
+}
+.fondoamarillo{
+  background-color: #fed361;
+  font-family: Montserrat;
+}
+.fondogris{
+  background-color:#e8dccc ;
+}
+
+.btn-color{
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.5;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    background-color: #fed361;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.form-newrange{
+      width: 100%;
+      height: 1.5rem;
+      padding: 0;
+      background-color:#fed361 ;
+      -webkit-appearance: none;
+      -moz-appearance: none;
+      appearance: none;
+}
+/* */
